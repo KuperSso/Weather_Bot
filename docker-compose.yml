@@ -24,7 +24,7 @@ services:
   restart: always
   env_file:
    - .env
- db:
+ db_api:
   container_name: db_api
   image: postgres:15.6
   volumes:
