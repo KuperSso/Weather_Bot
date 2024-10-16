@@ -20,5 +20,5 @@
 - **Фреймворк**: Django (DRF для REST API)
 - **Библиотека для Telegram**: Aiogram
 - **База данных**: PostgreSQL
-- **Методы API погоды**: OpenWeatherMap API
+- **Методы API погоды**: OpenWeatherMap API (**ВАЖНО**: Может тупить API в связи с ситуацией в мире)
 - **Логирование**: Встроенный модуль `logging`
