@@ -1,4 +1,4 @@
-# Telegram Weather Bot
+# Telegram Weather Bot ( @kuper_weather_bot Имя бота в телеге)
 
 ## Описание проекта
 
